@@ -211,3 +211,11 @@ Project: 7Worlds Empire
 Founder: Ahmed Amin
 Contact: Add the preferred public project email or website before publishing this repository.
 This document is a concept and planning README, not a claim of completed construction, confirmed partnerships, guaranteed returns, or currently available worldwide bookings.
+## How to Run the Project
+To run this application using Docker, follow these steps:
+1. Make sure Docker is installed.
+2. Run the following command in your terminal:
+   ```bash
+   docker-compose up --build
+   ```
+   
