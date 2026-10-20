@@ -219,3 +219,6 @@ To run this application using Docker, follow these steps:
    docker-compose up --build
    ```
    
+## 🎬 
+
+[![7Worlds Empire Teaser](https://img.youtube.com/vi/O0TsVDi_LU8/hqdefault.jpg)](https://youtube.com/shorts/O0TsVDi_LU8?si=m-pn8Z56n1DFH0gB)
