@@ -1,0 +1,18 @@
+{
+  "name": "7worlds-empire",
+  "version": "1.0.0",
+  "description": "7Worlds Empire - Global Interactive & Agricultural Platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test test/*.test.js",
+    "lint": "eslint ."
+  },
+  "keywords": [
+    "ai",
+    "agriculture",
+    "7worlds",
+    "empire"
+  ],
+  "author": "Ahmad Mohammed Amin",
+  "license": "ISC"
+}
